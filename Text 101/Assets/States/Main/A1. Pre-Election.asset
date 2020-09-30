@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22b8ca403e54e465b8099d8d4108f9ca, type: 3}
+  m_Name: A1. Pre-Election
+  m_EditorClassIdentifier: 
+  storyText: 'The election is coming up.  If Trump wins again, the country is on the
+    brink of collapse.
+
+    Do I want to continue to live in America where things are falling apart very rapidly,
+    or move to another country?
+
+
+    What should I do?
+
+    1. Wait until the election to decide?
+
+    2. Don''t wait, move right now.'
+  nextStates:
+  - {fileID: 11400000, guid: fbefb1177f03643b8b9d18c8c318bfe0, type: 2}
+  - {fileID: 11400000, guid: 94a7a1170ae77478e8fb694fb5eaa723, type: 2}
