@@ -25,5 +25,5 @@ MonoBehaviour:
 
     2. Don''t wait, move right now.'
   nextStates:
-  - {fileID: 11400000, guid: fbefb1177f03643b8b9d18c8c318bfe0, type: 2}
-  - {fileID: 11400000, guid: 94a7a1170ae77478e8fb694fb5eaa723, type: 2}
+  - {fileID: 11400000, guid: 6734fcd6b963f4ff399fa8dccb2c5d5c, type: 2}
+  - {fileID: 11400000, guid: 77efd71fdeb444261a9f575ac0bb5912, type: 2}

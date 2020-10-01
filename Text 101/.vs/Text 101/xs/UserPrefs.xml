@@ -1,13 +1,13 @@
 ﻿<Properties StartupConfiguration="{CCD12B31-6253-7354-3940-D5860E3E8DDD}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/AdventureGame.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/State.cs">
     <Files>
-      <File FileName="Assets/AdventureGame.cs" Line="24" Column="12" />
-      <File FileName="Assets/State.cs" Line="24" Column="1" />
+      <File FileName="Assets/Scripts/AdventureGame.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/State.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1ba97714-cb6b-4d56-9bee-76600ac4a2b6" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="27946a00-b28b-4c6f-982c-8e2beb0b8eae" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
