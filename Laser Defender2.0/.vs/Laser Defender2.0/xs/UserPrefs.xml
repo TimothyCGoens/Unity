@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{20B77010-A171-4C02-035F-B512ABC138C9}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Shredder.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Player.cs" Line="80" Column="3" />
+      <File FileName="Assets/Scripts/Shredder.cs" Line="22" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7bc3c59c-06ff-4c67-8377-3b4d68306571" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
